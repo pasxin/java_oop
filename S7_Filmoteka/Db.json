@@ -1,0 +1,41 @@
+{
+  "Movies": [
+    {
+      "Id": 1,
+      "Name": "Зеленая миля",
+      "Description": "",
+      "Price": 100,
+      "IsAvailable": true
+    },
+    {
+      "Id": 2,
+      "Name": "Список Шиндлера",
+      "Description": "",
+      "Price": 80,
+      "IsAvailable": true
+    },
+    {
+      "Id": 3,
+      "Name": "Назад в будущее",
+      "Description": "",
+      "Price": 50,
+      "IsAvailable": true
+    }
+  ],
+  "Users": [
+    {
+      "Id": 1,
+      "Name": "Admin",
+      "Role": 0,
+      "FilmRented": 0,
+      "Balance": 999999
+    },
+    {
+      "Id": 2,
+      "Name": "User",
+      "Role": 1,
+      "FilmRented": 0,
+      "Balance": 1000
+    }
+  ]
+}
